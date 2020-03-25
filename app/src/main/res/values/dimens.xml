@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spaces -->
+    <dimen name="min_tab_width">150dip</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_size">24sp</dimen>
+</resources>

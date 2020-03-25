@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="tab_text">Tab</string>
+</resources>
